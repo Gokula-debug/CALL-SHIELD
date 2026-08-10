@@ -1,0 +1,6 @@
+{
+  "name": "CallShield",
+  "description": "Spam call detection and blocking system with web dashboard, REST APIs, and Android Kotlin integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
